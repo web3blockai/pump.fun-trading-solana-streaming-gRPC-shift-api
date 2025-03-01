@@ -1,5 +1,7 @@
 # Trading | Enhance Solana Transaction Streaming Script on Shyft.to gRPC
 
+[The script](./index.ts)
+
 https://www.upwork.com/freelancers/web3blockai?p=1886858880616067072
 
 Project description.
